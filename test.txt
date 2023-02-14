@@ -1,2 +1,3 @@
 Testin file in UAT branch
+Edited on UAT branch for conflict
 Updated test file on master branch
